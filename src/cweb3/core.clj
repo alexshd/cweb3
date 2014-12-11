@@ -42,3 +42,5 @@
 
 (def full-handler
   (not-found-middleware (simple-log-middleware route-handler)))
+
+
