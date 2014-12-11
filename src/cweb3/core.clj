@@ -1,5 +1,11 @@
 (ns cweb3.core)
 
+(defn not-found-middleware [handler]
+  (fn [request]
+    (or (handler request)
+        {:status 404 :body (str "404 Not Found (with middleware!):" (:uri request))})
+    ))
+
 (defn simple-log-middleware [handler]
   (fn [{:keys [uri] :as request}]
     (println "Request path: " uri)
@@ -35,4 +41,4 @@
                   (:uri request))}))
 
 (def full-handler
-  (simple-log-middleware wrapping-handler))
+  (not-found-middleware (simple-log-middleware route-handler)))
