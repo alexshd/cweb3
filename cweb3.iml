@@ -16,7 +16,21 @@
     <orderEntry type="library" name="Leiningen: clojure-complete:0.2.3" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.6.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/tools.nrepl:0.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone:0.9.1" level="project" />
     <orderEntry type="library" name="Leiningen: ring:1.3.2" level="project" />
+    <orderEntry type="library" name="Leiningen: clj-glob:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: clj-native:0.9.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.json:0.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/at-at:1.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/byte-spec:0.3.1" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/libs.handlers:0.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/midi-clj:0.5.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/osc-clj:0.9.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/scsynth-extras:3.5.7.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/scsynth:3.5.7.0" level="project" />
+    <orderEntry type="library" name="Leiningen: net.java.dev.jna/jna:3.4.0" level="project" />
+    <orderEntry type="library" name="Leiningen: commons-net:3.0.1" level="project" />
+    <orderEntry type="library" name="Leiningen: javax.jmdns/jmdns:3.4.1" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-core:1.3.2" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-devel:1.3.2" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-jetty-adapter:1.3.2" level="project" />
@@ -41,6 +55,7 @@
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-http:7.6.13.v20130916" level="project" />
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-io:7.6.13.v20130916" level="project" />
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-util:7.6.13.v20130916" level="project" />
+    <orderEntry type="library" name="Leiningen: net.java.dev.jna/jna:3.4.0" level="project" />
     <orderEntry type="library" name="Leiningen: joda-time:2.2" level="project" />
     <orderEntry type="library" name="Leiningen: commons-codec:1.6" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/java.classpath:0.2.2" level="project" />
@@ -50,6 +65,18 @@
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty.orbit/javax.servlet:2.5.0.v201103041518" level="project" />
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-continuation:7.6.13.v20130916" level="project" />
     <orderEntry type="library" name="Leiningen: org.eclipse.jetty/jetty-http:7.6.13.v20130916" level="project" />
+    <orderEntry type="library" name="Leiningen: commons-net:3.0.1" level="project" />
+    <orderEntry type="library" name="Leiningen: javax.jmdns/jmdns:3.4.1" level="project" />
+    <orderEntry type="library" name="Leiningen: clj-glob:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: clj-native:0.9.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.json:0.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/at-at:1.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/byte-spec:0.3.1" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/libs.handlers:0.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/midi-clj:0.5.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/osc-clj:0.9.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/scsynth-extras:3.5.7.0" level="project" />
+    <orderEntry type="library" name="Leiningen: overtone/scsynth:3.5.7.0" level="project" />
     <orderEntry type="library" name="Leiningen: clj-time:0.6.0" level="project" />
     <orderEntry type="library" name="Leiningen: commons-fileupload:1.3" level="project" />
     <orderEntry type="library" name="Leiningen: commons-io:2.4" level="project" />
